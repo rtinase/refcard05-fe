@@ -1,3 +1,12 @@
+# RefCard 05 – Frontend (React + Vite) auf AWS
+
+> **Abgabe RefCard05:** [`docs/RefCard05-Ergebnis.md`](docs/RefCard05-Ergebnis.md) ·
+> Backend-Repo (inkl. Docker Compose): [rtinase/refcard05-be](https://github.com/rtinase/refcard05-be)
+
+Pipeline `.github/workflows/ci-cd.yml`: Lint, Test, Build → Docker-Image (nginx) → Amazon ECR → Amazon ECS (Fargate).
+
+---
+
 # React + Vite
 
 ## Getting the starting point
